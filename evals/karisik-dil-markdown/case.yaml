@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: karisik-dil-markdown
+expected_outcome: |
+  Gündelik-teknik register korunur. Satır içi kod, arayüz etiketi, İngilizce alıntı ve Markdown tablosu birebir kalır. Kapsam sözü 'yalnızca' başarısız isteklere bağlı kalır. Sıcaklık işaretleri, ekip-rapor dağılımı, arayan-aranan rolleri ve 'henüz' korunur. Açılış klişesi kalkar.

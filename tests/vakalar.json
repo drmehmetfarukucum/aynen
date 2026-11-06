@@ -1,0 +1,1507 @@
+[
+ {
+  "id": "CX-YN01",
+  "kaynak": "Sıcaklık -5 °C ölçüldü.",
+  "yeni": "Sıcaklık +5 °C ölçüldü.",
+  "beklenen": "KESİN",
+  "not": "işaret"
+ },
+ {
+  "id": "CX-YN02",
+  "kaynak": "Sonuç p<0,05 olarak verildi.",
+  "yeni": "Sonuç p>0,05 olarak verildi.",
+  "beklenen": "KESİN",
+  "not": "işleç"
+ },
+ {
+  "id": "CX-YN03",
+  "kaynak": "Sabah 5 mg, akşam 10 mg alındı.",
+  "yeni": "Sabah 10 mg, akşam 5 mg alındı.",
+  "beklenen": "KONTROL",
+  "not": "sayı takası"
+ },
+ {
+  "id": "CX-YN04",
+  "kaynak": "Sadece gece vardiyasında gözlük takılıyor.",
+  "yeni": "Gece vardiyasında sadece gözlük takılıyor.",
+  "beklenen": "KONTROL",
+  "not": "odak kayması"
+ },
+ {
+  "id": "CX-YN05",
+  "kaynak": "Burada bekleyin.",
+  "yeni": "Burada beklemeyin.",
+  "beklenen": "KONTROL",
+  "not": "olumsuz emir"
+ },
+ {
+  "id": "CX-YN06",
+  "kaynak": "Görevli gelmişti.",
+  "yeni": "Görevli geldi.",
+  "beklenen": "KONTROL",
+  "not": "-mıştı"
+ },
+ {
+  "id": "CX-YN07",
+  "kaynak": "Gittiği için sustu.",
+  "yeni": "Gittiği sırada sustu.",
+  "beklenen": "KONTROL",
+  "not": "-tığı için"
+ },
+ {
+  "id": "CX-YN08",
+  "kaynak": "Öğretmen geldiğinden ders başladı.",
+  "yeni": "Öğretmen geldiğinde ders başladı.",
+  "beklenen": "KONTROL",
+  "not": "-dığından / -dığında"
+ },
+ {
+  "id": "CX-YN09",
+  "kaynak": "Geldiğimiz için sustu.",
+  "yeni": "Geldiğimiz sırada sustu.",
+  "beklenen": "KONTROL",
+  "not": "iyelikli neden"
+ },
+ {
+  "id": "CX-YN10",
+  "kaynak": "Doz 5 mg/kg/gün olarak verildi.",
+  "yeni": "Doz 5 mg/kg/hafta olarak verildi.",
+  "beklenen": "KESİN",
+  "not": "bileşik birim"
+ },
+ {
+  "id": "CX-YN11",
+  "kaynak": "İşlem sürüyor.",
+  "yeni": "İşlem sürecek.",
+  "beklenen": "KONTROL",
+  "not": "gelecek zaman"
+ },
+ {
+  "id": "CX-YN12",
+  "kaynak": "Herkes gelmedi.",
+  "yeni": "Kimse gelmedi.",
+  "beklenen": "KONTROL",
+  "not": "niceleyici"
+ },
+ {
+  "id": "CX-YN13",
+  "kaynak": "Ahmet raporu imzaladı.",
+  "yeni": "Mehmet raporu imzaladı.",
+  "beklenen": "KONTROL",
+  "not": "cümle başı ad"
+ },
+ {
+  "id": "CX-YN14",
+  "kaynak": "Formu Ahmet imzaladı.",
+  "yeni": "Formu Ahmetcan imzaladı.",
+  "beklenen": "KESİN",
+  "not": "tam ad"
+ },
+ {
+  "id": "CX-YN15",
+  "kaynak": "Ayşe ‘kal’ dedi. Ali ‘git’ dedi.",
+  "yeni": "Ayşe ‘git’ dedi. Ali ‘kal’ dedi.",
+  "beklenen": "KONTROL",
+  "not": "alıntı takası"
+ },
+ {
+  "id": "CX-YP01",
+  "kaynak": "Bu iki kişinin kaydı silindi.",
+  "yeni": "Bu ikisinin kaydı silindi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "çekimli sayı sözü"
+ },
+ {
+  "id": "CX-YP02",
+  "kaynak": "Dört kişi başvurdu; dördü de kabul edildi.",
+  "yeni": "Dört kişi başvurdu; dört kişi de kabul edildi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "dördü"
+ },
+ {
+  "id": "CX-YP03",
+  "kaynak": "Elmalı keki seçti.",
+  "yeni": "Elma içeren keki seçti.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "elmalı gereklilik değil"
+ },
+ {
+  "id": "CX-YP04",
+  "kaynak": "Bu üçgen kırmızı.",
+  "yeni": "Bu üçgenin rengi kırmızı.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "üçgen sayı değil"
+ },
+ {
+  "id": "CX-YP05",
+  "kaynak": "Bekleme süresi 5 mg ölçümünden sonra kaydedildi.",
+  "yeni": "Bekleme süresi 5  mg ölçümünden sonra kaydedildi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "birim boşluğu"
+ },
+ {
+  "id": "CX-KN01",
+  "kaynak": "Bulgular incelenmiştir.",
+  "yeni": "Bulgular incelendi.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "-mıştır"
+ },
+ {
+  "id": "CX-DP01",
+  "kaynak": "Uyarı: 'Risk yok.'",
+  "yeni": "Uyarı: 'Risk var.'",
+  "beklenen": "KESİN",
+  "not": "tek tırnaklı alıntı"
+ },
+ {
+  "id": "GPT-01",
+  "kaynak": "Ayşe, Ali'yi aradı.",
+  "yeni": "Ali, Ayşe'yi aradı.",
+  "beklenen": "KONTROL",
+  "not": "rol takası"
+ },
+ {
+  "id": "GPT-06",
+  "kaynak": "Risk OR 1,84 bulundu.",
+  "yeni": "Risk OR 184 bulundu.",
+  "beklenen": "KESİN",
+  "not": "ondalık kaydı"
+ },
+ {
+  "id": "GPT-08",
+  "kaynak": "İlaç sabah ve akşam alınmalıdır.",
+  "yeni": "İlaç sabah veya akşam alınmalıdır.",
+  "beklenen": "KONTROL",
+  "not": "ve / veya"
+ },
+ {
+  "id": "GPT-09",
+  "kaynak": "Ahmet raporu imzaladı mı?",
+  "yeni": "Ahmet raporu imzaladı.",
+  "beklenen": "KONTROL",
+  "not": "soru"
+ },
+ {
+  "id": "GPT-10",
+  "kaynak": "Kayıtlı çalışanlar sahaya girebilir.",
+  "yeni": "Kayıtsız çalışanlar sahaya girebilir.",
+  "beklenen": "KONTROL",
+  "not": "-lı / -sız"
+ },
+ {
+  "id": "GPT-12",
+  "kaynak": "Görevli kontrolleri yaptırdı.",
+  "yeni": "Görevli kontrolleri yaptı.",
+  "beklenen": "KONTROL",
+  "not": "ettirgen"
+ },
+ {
+  "id": "GPT-14",
+  "kaynak": "Merve Yıldırım toplantıya katıldı.",
+  "yeni": "Merve Yıldız toplantıya katıldı.",
+  "beklenen": "KESİN",
+  "not": "ilk beş harf anahtarı"
+ },
+ {
+  "id": "GPT-17",
+  "kaynak": "Toplantı 5 dakika sürdü.",
+  "yeni": "Toplantı 5 dk sürdü.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "yalnızca gösterim"
+ },
+ {
+  "id": "GPT-18",
+  "kaynak": "Revire 1 hekim atandı.",
+  "yeni": "Revire bir hekim atandı.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL"
+ },
+ {
+  "id": "GPT-19",
+  "kaynak": "Bu bulgu önceki çalışmada da (Yılmaz, 2020) bildirilmişti.",
+  "yeni": "Bu bulguyu Yılmaz (2020) da bildirmişti.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "atıf biçimi"
+ },
+ {
+  "id": "GEM-01",
+  "kaynak": "Depoda bir sandık vardı.",
+  "yeni": "Depoda tanıdık bir sandık vardı.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "-dık adı birinci kişi değil"
+ },
+ {
+  "id": "CR6-FP01",
+  "kaynak": "Gecikme oranı yüzde on beş civarında kaldı.",
+  "yeni": "Gecikme oranı %15 civarında kaldı.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL"
+ },
+ {
+  "id": "CR6-FP03",
+  "kaynak": "Ek bütçe 1,5 milyon ₺ oldu.",
+  "yeni": "Ek bütçe 1.500.000 ₺ oldu.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL"
+ },
+ {
+  "id": "CR6-FP08",
+  "kaynak": "Toplantı saat 14:30'da başladı.",
+  "yeni": "Toplantı saat 14.30'da başladı.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL"
+ },
+ {
+  "id": "CR6-FN01",
+  "kaynak": "Kesinti 03/04/2025 tarihinde başladı.",
+  "yeni": "Kesinti 04/03/2025 tarihinde başladı.",
+  "beklenen": "KONTROL",
+  "not": "gün / ay"
+ },
+ {
+  "id": "CR6-FN02",
+  "kaynak": "Zarar 1,5 milyon ₺ olarak hesaplandı.",
+  "yeni": "Zarar 1,5 milyon USD olarak hesaplandı.",
+  "beklenen": "KESİN",
+  "not": "para birimi"
+ },
+ {
+  "id": "CR6-FN18",
+  "kaynak": "Ek maliyet 42.000 USD oldu.",
+  "yeni": "Ek maliyet 42 USD oldu.",
+  "beklenen": "KESİN"
+ },
+ {
+  "id": "CR5-E",
+  "kaynak": "Uyku için %95 GA: 1,42–3,76; kaza için %95 GA: 1,09–2,78 bulundu.",
+  "yeni": "Uyku için %95 GA: 1,09–2,78; kaza için %95 GA: 1,42–3,76 bulundu.",
+  "beklenen": "KONTROL",
+  "not": "aralık takası"
+ },
+ {
+  "id": "CR7-T14",
+  "kaynak": "Toplantıda ne bütçe artışı ne de ek personel konusunda bir karar alındı.",
+  "yeni": "Toplantıda bütçe artışı ve ek personel konusunda bir karar alındı.",
+  "beklenen": "KONTROL",
+  "not": "ne ... ne"
+ },
+ {
+  "id": "CR7-T11",
+  "kaynak": "Muhasebenin geri bildirimi pek olumlu değil.",
+  "yeni": "Muhasebenin geri bildirimi olumsuz.",
+  "beklenen": "KONTROL",
+  "not": "pek ... değil"
+ },
+ {
+  "id": "CR7-T02",
+  "kaynak": "Raporlama ekranı henüz test edilmedi.",
+  "yeni": "Raporlama ekranı test edilmedi.",
+  "beklenen": "KONTROL",
+  "not": "henüz"
+ },
+ {
+  "id": "CR7-T16",
+  "kaynak": "Veri aktarımı tamamlanmadan önce Tuzla deposuna geçilmeyecek.",
+  "yeni": "Veri aktarımı tamamlandıktan sonra Tuzla deposuna geçilecek.",
+  "beklenen": "KONTROL",
+  "not": "-madan önce / -dıktan sonra"
+ },
+ {
+  "id": "CR7-T13b",
+  "kaynak": "Veri aktarım planı bile henüz onaylanmadı.",
+  "yeni": "Veri aktarım planı henüz onaylanmadı bile.",
+  "beklenen": "KONTROL",
+  "not": "bile kayması"
+ },
+ {
+  "id": "CR3-01",
+  "kaynak": "İşveren, kazayı derhâl bildirmekle yükümlüdür.",
+  "yeni": "İşveren kazayı bildirebilir.",
+  "beklenen": "KONTROL",
+  "not": "yükümlülük, derhâl"
+ },
+ {
+  "id": "CR3-02",
+  "kaynak": "Bu hüküm, sahaya girmedikleri sürece stajyerler hariç tüm çalışanlar için geçerlidir.",
+  "yeni": "Bu hüküm tüm çalışanlar için geçerlidir.",
+  "beklenen": "KONTROL",
+  "not": "koşul ve istisna"
+ },
+ {
+  "id": "CR1-01",
+  "kaynak": "1. Kalıcı hasar oluşabilir.\n2. Kaza riski artabilir.",
+  "yeni": "Kalıcı hasar oluşabilir. Kaza riski de artabilir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "liste imi sayı değil"
+ },
+ {
+  "id": "CR1-02",
+  "kaynak": "| Alan | Değer |\n|---|---|\n| Ramp | 88,4 |",
+  "yeni": "| Alan | Değer |\n|---|---|\n| Ramp | 88.4 |",
+  "beklenen": "KESİN",
+  "not": "tablo satırı"
+ },
+ {
+  "id": "CR1-03",
+  "kaynak": "Başkan şöyle dedi:\n\n> Ölçümler önemli bir kısmın sınırı aştığını gösteriyor.\n> Denetimi sürdüreceğiz.",
+  "yeni": "Başkan şöyle dedi:\n\n> Ölçümler önemli bir kısmın sınırı aştığını gösteriyor. Denetimi sürdürebiliriz.",
+  "beklenen": "KESİN",
+  "not": "çok satırlı blok alıntı"
+ },
+ {
+  "id": "BLK-01",
+  "kaynak": "`if retries < 3: retry()` kodu aynen korunmalıdır.",
+  "yeni": "`if retries <= 3: retry()` kodu aynen korunmalıdır.",
+  "beklenen": "KESİN",
+  "not": "satır içi kod"
+ },
+ {
+  "id": "BLK-02",
+  "kaynak": "Ayrıntılar https://ornek.gov.tr/isg/gurultu sayfasındadır.",
+  "yeni": "Ayrıntılar https://ornek.gov.tr/isg sayfasındadır.",
+  "beklenen": "KESİN",
+  "not": "bağlantı"
+ },
+ {
+  "id": "BLK-03",
+  "kaynak": "Komut:\n\n```\npython3 -I denetim.py a.txt b.txt\n```",
+  "yeni": "Komut:\n\n```\npython3 denetim.py a.txt b.txt\n```",
+  "beklenen": "KESİN",
+  "not": "kod bloğu"
+ },
+ {
+  "id": "ABBR-01",
+  "kaynak": "Belgeyi Kuzey A.Ş. Personel Müdürü Ayla Demir imzaladı.",
+  "yeni": "Belgeyi Kuzey A.Ş. Personel Müdürü Ayla Doğan imzaladı.",
+  "beklenen": "KESİN",
+  "not": "A.Ş. cümleyi bitirmez"
+ },
+ {
+  "id": "GR-08",
+  "kaynak": "Gece vardiyası uykuyu bozabilir. Gürültü kesinlikle uykuyu bozar.",
+  "yeni": "Gece vardiyası kesinlikle uykuyu bozar. Gürültü uykuyu bozabilir.",
+  "beklenen": "KONTROL",
+  "not": "temkin cümle değiştirdi"
+ },
+ {
+  "id": "GR-09",
+  "kaynak": "Kayıtlar artmadı, şikâyetler arttı.",
+  "yeni": "Kayıtlar arttı, şikâyetler artmadı.",
+  "beklenen": "KONTROL",
+  "not": "olumsuzluk aynı cümlede yer değiştirdi"
+ },
+ {
+  "id": "GR-12",
+  "kaynak": "Toplantıya on iki kişi katıldı.",
+  "yeni": "Toplantıya 12 kişi katıldı.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL"
+ },
+ {
+  "id": "ANL-02",
+  "kaynak": "Tüm çalışanlar eğitim aldı.",
+  "yeni": "Bazı çalışanlar eğitim aldı.",
+  "beklenen": "KONTROL",
+  "not": "kapsam"
+ },
+ {
+  "id": "ANL-03",
+  "kaynak": "Kulaklık kullanılması önerilir.",
+  "yeni": "Kulaklık kullanılması zorunludur.",
+  "beklenen": "KONTROL",
+  "not": "öneri / zorunluluk"
+ },
+ {
+  "id": "ANL-04",
+  "kaynak": "Takıldığınız bir nokta olursa bana ulaşabilirsiniz.",
+  "yeni": "Takıldığınız bir nokta olursa bana her zaman ulaşabilirsiniz.",
+  "beklenen": "KONTROL",
+  "not": "eklenen mutlak söz"
+ },
+ {
+  "id": "ANL-05",
+  "kaynak": "Bu çalışmada 412 işçinin kayıtları incelenmiştir.",
+  "yeni": "Bu çalışmada 412 işçinin kayıtlarını inceledik.",
+  "beklenen": "KESİN",
+  "not": "kaynakta olmayan birinci kişi"
+ },
+ {
+  "id": "TMZ-01",
+  "kaynak": "Bulgular, gece çalışmasının bel ağrısıyla ilişkili olabileceğini düşündürmektedir.",
+  "yeni": "Bulgular, gece çalışmasının bel ağrısıyla ilişkili olabileceğini düşündürmektedir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ"
+ },
+ {
+  "id": "EX6-GUVENLI",
+  "kaynak": "Günümüzde vardiyalı çalışma, iş sağlığında önemi giderek büyüyen kritik bir mesele hâline gelmiştir. Bu bağlamda, söz konusu çalışmada bir lojistik deposunda çalışan 412 işçide gece vardiyası ile bel ağrısı arasındaki ilişki incelenmektedir. Veriler, 2025 yılının Mart-Haziran döneminde yüz yüze görüşme yöntemiyle toplanmış olup lojistik regresyon analizi kullanılarak değerlendirilmiştir. Elde edilen bulgular, gece vardiyasında çalışanlarda bel ağrısı sıklığının gündüz vardiyasına göre daha yüksek olduğunu göstermektedir (OR 1,84; %95 GA 1,21–2,79; p=0,004). Bununla birlikte, yaş grupları arasında istatistiksel olarak anlamlı bir fark bulunmamıştır. Bu bulgular, gece çalışmasının bel ağrısı ile ilişkili olabileceğini düşündürmektedir. Sonuç olarak, vardiya planlamasında ergonomik risklerin göz önünde bulundurulması büyük önem taşımaktadır.",
+  "yeni": "Vardiyalı çalışma iş sağlığında giderek önem kazanmaktadır. Bu çalışmada bir lojistik deposunda çalışan 412 işçide gece vardiyası ile bel ağrısı arasındaki ilişki incelenmektedir. Veriler 2025 yılının Mart-Haziran döneminde yüz yüze görüşmeyle toplanmış, lojistik regresyon analiziyle değerlendirilmiştir. Bulgular, gece vardiyasında çalışanlarda bel ağrısı sıklığının gündüz vardiyasına göre daha yüksek olduğunu göstermektedir (OR 1,84; %95 GA 1,21–2,79; p=0,004). Bununla birlikte, yaş grupları arasında istatistiksel olarak anlamlı bir fark bulunmamıştır. Bu bulgular, gece çalışmasının bel ağrısıyla ilişkili olabileceğini düşündürmektedir. Vardiya planlamasında ergonomik risklerin göz önünde bulundurulması büyük önem taşımaktadır.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "examples/06 güvenli yazım"
+ },
+ {
+  "id": "EX6-GUVENSIZ",
+  "kaynak": "Günümüzde vardiyalı çalışma, iş sağlığında önemi giderek büyüyen kritik bir mesele hâline gelmiştir. Bu bağlamda, söz konusu çalışmada bir lojistik deposunda çalışan 412 işçide gece vardiyası ile bel ağrısı arasındaki ilişki incelenmektedir. Veriler, 2025 yılının Mart-Haziran döneminde yüz yüze görüşme yöntemiyle toplanmış olup lojistik regresyon analizi kullanılarak değerlendirilmiştir. Elde edilen bulgular, gece vardiyasında çalışanlarda bel ağrısı sıklığının gündüz vardiyasına göre daha yüksek olduğunu göstermektedir (OR 1,84; %95 GA 1,21–2,79; p=0,004). Bununla birlikte, yaş grupları arasında istatistiksel olarak anlamlı bir fark bulunmamıştır. Bu bulgular, gece çalışmasının bel ağrısı ile ilişkili olabileceğini düşündürmektedir. Sonuç olarak, vardiya planlamasında ergonomik risklerin göz önünde bulundurulması büyük önem taşımaktadır.",
+  "yeni": "Vardiyalı çalışma iş sağlığının önemli konularından biri. Bir lojistik deposundaki 421 çalışanla yaptığımız bu çalışmada gece vardiyasının bel ağrısına etkisini inceledik. Gece çalışanlarda bel ağrısı daha sık görüldü (OR 1.84; p=0,004). Yaşın ise bir etkisi yoktu. Kısacası gece çalışması bel ağrısını artırıyor, bu yüzden vardiyalar ergonomik risklere göre planlanmalı.",
+  "beklenen": "KESİN",
+  "not": "examples/06 güvensiz yazım"
+ },
+ {
+  "id": "CR7-T03",
+  "kaynak": "Yeni sistemi şu an yalnızca Gebze deposu kullanıyor.",
+  "yeni": "Gebze deposu şu an yalnızca yeni sistemi kullanıyor.",
+  "beklenen": "KONTROL",
+  "not": "odak kayması (ayarlanmadan denendi)"
+ },
+ {
+  "id": "CR7-T08",
+  "kaynak": "Sayım ekranı ilk bakışta hazırmış gibi görünse de barkod okuma özelliği eksik.",
+  "yeni": "Sayım ekranı hazır, ama barkod okuma özelliği eksik.",
+  "beklenen": "KONTROL",
+  "not": "-mış gibi (ayarlanmadan denendi)"
+ },
+ {
+  "id": "CX-13b",
+  "kaynak": "Cihaz ancak onay gelirse kullanılabilir.",
+  "yeni": "Cihaz onay gelirse kullanılabilir.",
+  "beklenen": "KONTROL",
+  "not": "gerekli koşul (ayarlanmadan denendi)"
+ },
+ {
+  "id": "SIRA-01",
+  "kaynak": "Raporlama ekranı test edildikten sonra kullanıcı eğitimleri başlayacak.",
+  "yeni": "Kullanıcı eğitimleri başladıktan sonra raporlama ekranı test edilecek.",
+  "beklenen": "KONTROL",
+  "not": "sıra eki ve 'sonra' iki yanı ters eyleme geçti"
+ },
+ {
+  "id": "NITELEYICI-01",
+  "kaynak": "Maliyet yaklaşık 1.500.000 TL; buna ek olarak 42.000 USD harcandı.",
+  "yeni": "Maliyet 1.500.000 TL; buna ek olarak yaklaşık 42.000 USD harcandı.",
+  "beklenen": "KESİN",
+  "not": "'yaklaşık' aynı cümlede başka sayıya geçti"
+ },
+ {
+  "id": "KARSIOLGU-01",
+  "kaynak": "Bütçe ayrılsaydı cihaz alınabilirdi.",
+  "yeni": "Bütçe ayrılırsa cihaz alınabilir.",
+  "beklenen": "KONTROL",
+  "not": "gerçekleşmemiş koşul açık koşula döndü"
+ },
+ {
+  "id": "SIRA-02",
+  "kaynak": "Önce form doldurulur, sonra imza alınır.",
+  "yeni": "Önce imza alınır, sonra form doldurulur.",
+  "beklenen": "KONTROL",
+  "not": "önce … sonra iki yanı ters"
+ },
+ {
+  "id": "SIRA-03",
+  "kaynak": "Veriler toplandı, ardından analiz yapıldı.",
+  "yeni": "Analiz yapıldı, ardından veriler toplandı.",
+  "beklenen": "KONTROL",
+  "not": "ardından iki yanı ters"
+ },
+ {
+  "id": "SIRA-04",
+  "kaynak": "Hekim gelince hasta muayene edilir.",
+  "yeni": "Hasta muayene edilince hekim gelir.",
+  "beklenen": "KONTROL",
+  "not": "-ınca başka eyleme geçti"
+ },
+ {
+  "id": "SIRA-05",
+  "kaynak": "Ekran test edildikten sonra eğitimler başlayacak.",
+  "yeni": "Eğitimler, ekran test edildikten sonra başlayacak.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: sıra korunarak öğe yeri değişti"
+ },
+ {
+  "id": "SIRA-06",
+  "kaynak": "Raporlama ekranı test edildikten sonra kullanıcı eğitimleri başlayacak.",
+  "yeni": "Raporlama ekranının testi tamamlandıktan sonra kullanıcı eğitimleri başlayacak.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: sıra korunarak eylem yeniden yazıldı"
+ },
+ {
+  "id": "NITELEYICI-02",
+  "kaynak": "Katılımcı sayısı yaklaşık 100 kişiydi.",
+  "yeni": "Katılımcı sayısı 100 kişi civarındaydı.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: yaklaşık = civarında"
+ },
+ {
+  "id": "NITELEYICI-03",
+  "kaynak": "İzin en az 3 gün sürer.",
+  "yeni": "İzin en fazla 3 gün sürer.",
+  "beklenen": "KESİN",
+  "not": "alt sınır üst sınıra döndü"
+ },
+ {
+  "id": "NITELEYICI-04",
+  "kaynak": "Sonuç en geç 5 gün içinde bildirilir.",
+  "yeni": "Sonuç 5 gün içinde bildirilir.",
+  "beklenen": "KESİN",
+  "not": "süre sınırı düştü"
+ },
+ {
+  "id": "NITELEYICI-05",
+  "kaynak": "Ceza 1 yıla kadar hapistir.",
+  "yeni": "Ceza 1 yıl hapistir.",
+  "beklenen": "KESİN",
+  "not": "'-e kadar' düştü"
+ },
+ {
+  "id": "NITELEYICI-06",
+  "kaynak": "Listede 50 kalıp var.",
+  "yeni": "Listede 50'yi aşkın kalıp var.",
+  "beklenen": "KESİN",
+  "not": "'aşkın' alt sınır ekledi"
+ },
+ {
+  "id": "NITELEYICI-07",
+  "kaynak": "Toplantıya 50'yi aşkın kişi katıldı.",
+  "yeni": "Toplantıya 50'den fazla kişi katıldı.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "aşkın = -den fazla, KESİN olmamalı ('fazla' karşılaştırma sözü sayılır)"
+ },
+ {
+  "id": "KARSIOLGU-02",
+  "kaynak": "Önlem alınmış olsaydı kaza önlenebilirdi.",
+  "yeni": "Önlem alınırsa kaza önlenebilir.",
+  "beklenen": "KONTROL",
+  "not": "-mış olsaydı açık koşula döndü"
+ },
+ {
+  "id": "KARSIOLGU-03",
+  "kaynak": "Yönetim destek verirse proje sürer.",
+  "yeni": "Yönetim destek verseydi proje sürerdi.",
+  "beklenen": "KONTROL",
+  "not": "açık koşul gerçekleşmemiş koşula döndü"
+ },
+ {
+  "id": "KARSIOLGU-04",
+  "kaynak": "Bütçe ayrılsaydı cihaz alınabilirdi.",
+  "yeni": "Cihaz, bütçe ayrılsaydı alınabilirdi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: -saydı korundu"
+ },
+ {
+  "id": "KARSIOLGU-05",
+  "kaynak": "Çalışma bu sonucu gösterdi ve standardı belirledi.",
+  "yeni": "Çalışma bu sonucu ortaya koydu ve standardını belirledi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: gösterdi, standardı -ardı değil"
+ },
+ {
+  "id": "ROL-01",
+  "kaynak": "Ayşe, Ali'yi aradı.",
+  "yeni": "Ali, Ayşe'yi aradı.",
+  "beklenen": "KONTROL",
+  "not": "hâl ekleri adlar arasında yer değiştirdi"
+ },
+ {
+  "id": "ROL-02",
+  "kaynak": "Ahmet Ali'yi aradı.",
+  "yeni": "Ahmet'i Ali aradı.",
+  "beklenen": "KONTROL",
+  "not": "sıra aynı, ek yer değiştirdi (ünlü uyumu)"
+ },
+ {
+  "id": "ROL-03",
+  "kaynak": "Ayşe dün akşam Ali'yi aradı.",
+  "yeni": "Ayşe, Ali'yi dün akşam aradı.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: Ali'yi değişmedi"
+ },
+ {
+  "id": "DN-01",
+  "kaynak": "Kanun on haftayı öngörür.[^a-1] Yargıtay bu görüşü kabul etmiştir.",
+  "yeni": "Kanun on haftayı öngörür. Yargıtay bu görüşü kabul etmiştir.[^a-1]",
+  "beklenen": "KESİN",
+  "not": "dipnot başka bir iddiaya taşındı"
+ },
+ {
+  "id": "DN-02",
+  "kaynak": "Kanun on haftayı öngörür.[^a-1] Yargıtay bu görüşü kabul etmiştir.[^a-2]",
+  "yeni": "Kanun on haftayı öngörür.[^a-1] Yargıtay da bu görüşü kabul etmiştir.[^a-2]",
+  "beklenen": "TEMİZ",
+  "not": "dipnotlar yerinde"
+ },
+ {
+  "id": "DN-03",
+  "kaynak": "Kanun on haftayı öngörür.[^a-1]\n\n[^a-1]: TCK m. 99/1 [tam metin].",
+  "yeni": "Kanun on haftayı öngörür.[^a-1]\n\n[^a-1]: TCK m. 99/2 [tam metin].",
+  "beklenen": "KESİN",
+  "not": "dipnot metni değişti"
+ },
+ {
+  "id": "DN-04",
+  "kaynak": "Kanun on haftayı öngörür.[^a-1] Yargıtay bu görüşü kabul etmiştir.",
+  "yeni": "Kanun on haftayı öngörür. Yargıtay bu görüşü kabul etmiştir.",
+  "beklenen": "KESİN",
+  "not": "dipnot işareti silindi"
+ },
+ {
+  "id": "HA-01",
+  "kaynak": "StGB § 218a izin tekniklerini kadının talebine bağlar.",
+  "yeni": "StGB § 218 izin tekniklerini kadının talebine bağlar.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: paragraf harfi"
+ },
+ {
+  "id": "HA-02",
+  "kaynak": "Fiil m. 99/5 birinci cümle kapsamında kalır.",
+  "yeni": "Fiil m. 99/5 ikinci cümle kapsamında kalır.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: birinci / ikinci cümle"
+ },
+ {
+  "id": "HA-03",
+  "kaynak": "TCK m. 40/2 ve TMK m. 346 birlikte uygulanır.",
+  "yeni": "TMK m. 40/2 ve TCK m. 346 birlikte uygulanır.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: kanun kısaltması takası"
+ },
+ {
+  "id": "HA-04",
+  "kaynak": "Yargıtay 5. CD, 2019/1234 E., 2020/567 K. sayılı kararında hükmü bozmuştur.",
+  "yeni": "Yargıtay 5. CD, 2019/1234 K., 2020/567 E. sayılı kararında hükmü bozmuştur.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: E. / K. takası"
+ },
+ {
+  "id": "HA-05",
+  "kaynak": "AİHS Art. 8 ve StGB Abs. 2 birlikte okunur.",
+  "yeni": "AİHS Abs. 8 ve StGB Art. 2 birlikte okunur.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: Art. / Abs. takası"
+ },
+ {
+  "id": "HA-06",
+  "kaynak": "Mahkeme A, B ve C/İrlanda kararında (25579/05) ihlal bulmuştur.",
+  "yeni": "Mahkeme A, B ve C/İrlanda kararında (25579/50) ihlal bulmuştur.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: başvuru numarası"
+ },
+ {
+  "id": "HA-07",
+  "kaynak": "5237 sayılı Kanun RG 12/10/2004, S. 25611'de yayımlanmıştır.",
+  "yeni": "5237 sayılı Kanun RG 12/10/2004, S. 25661'de yayımlanmıştır.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: RG sayısı"
+ },
+ {
+  "id": "HA-08",
+  "kaynak": "Suç endikasyonu m. 99/6 (a) bendinde düzenlenir.",
+  "yeni": "Suç endikasyonu m. 99/6 (b) bendinde düzenlenir.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: bent harfi"
+ },
+ {
+  "id": "HA-09",
+  "kaynak": "Hekim üçüncü fıkra uyarınca cezalandırılır.",
+  "yeni": "Hekim dördüncü fıkra uyarınca cezalandırılır.",
+  "beklenen": "KESİN",
+  "not": "hukuki atıf: fıkra sırası"
+ },
+ {
+  "id": "HA-10",
+  "kaynak": "Birinci fıkra kadının rızasını arar; m.  99/5 ise hekimi kapsar.",
+  "yeni": "Hükümde birinci fıkra kadının rızasını arar; m. 99/5 ise hekimi kapsar.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "hukuki atıf: boşluk ve büyük harf farkı atıfı değiştirmez"
+ },
+ {
+  "id": "GS-01",
+  "kaynak": "Kanaatimizce bu izin rıza unsurunun parçası değildir.",
+  "yeni": "Bu izin rıza unsurunun parçası değildir.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "görüşün sahibi: kanaatimizce silindi"
+ },
+ {
+  "id": "GS-02",
+  "kaynak": "Daire tebliğnamedeki görüşe katılmamıştır.",
+  "yeni": "Başsavcılık tebliğnamedeki görüşe katılmamıştır.",
+  "beklenen": "KONTROL",
+  "not": "görüşün sahibi: Daire / Başsavcılık"
+ },
+ {
+  "id": "GS-03",
+  "kaynak": "Öğretide ağırlıklı görüş bu yöndedir.",
+  "yeni": "Bu yönde ağırlıklı bir görüş vardır.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "görüşün sahibi: öğretide silindi"
+ },
+ {
+  "id": "KT-01",
+  "kaynak": "Bu nedenle kanun yararına bozma kararı verilmiştir.",
+  "yeni": "Bu nedenle bozma kararı verilmiştir.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "karar türü: kanun yararına bozma / bozma"
+ },
+ {
+  "id": "KT-02",
+  "kaynak": "Yargıtay 14. Ceza Dairesi bu kararı onamıştır.",
+  "yeni": "Yargıtay 14. Ceza Dairesi bu kararı bozmuştur.",
+  "beklenen": "KONTROL",
+  "not": "karar türü: onama / bozma"
+ },
+ {
+  "id": "TS-01",
+  "kaynak": "Bu taramada incelenen kararlar arasında böyle bir hükme rastlanmamıştır.",
+  "yeni": "Böyle bir hükme rastlanmamıştır.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "tarama sınırı: kapsam sözü silindi"
+ },
+ {
+  "id": "TS-02",
+  "kaynak": "Bu soru ilk kez Yargıtay kararında ele alınmıştır.",
+  "yeni": "Bu soru Yargıtay kararında ele alınmıştır.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "tarama sınırı: ilk kez"
+ },
+ {
+  "id": "KB-01",
+  "kaynak": "## Giriş\n\nMetin burada.\n\n## Kaynakça\n\n- Yılmaz, *Ceza Hukuku*, Ankara 2020.\n",
+  "yeni": "## Giriş\n\nMetin burada.\n\n## Kaynakça\n\n- Yılmaz, *Ceza Hukuku Genel Hükümler*, Ankara 2020.\n",
+  "beklenen": "KESİN",
+  "not": "korunan bölüm: kaynakça değişti"
+ },
+ {
+  "id": "KB-02",
+  "kaynak": "### Giriş\n\nMetin burada.\n\n### Kaynak kontrolü (2. Bölüm)\n\nk1 doğrulandı, k2 kısmen doğrulandı.\n",
+  "yeni": "### Giriş\n\nMetin burada.\n\n### Kaynak kontrolü (2. Bölüm)\n\nk1 doğrulandı, k2 doğrulandı.\n",
+  "beklenen": "KESİN",
+  "koru": "kaynak kontrolü;araştırma notu;Yoğunlaştırma notu",
+  "not": "korunan bölüm: --koru parçası"
+ },
+ {
+  "id": "KB-03",
+  "kaynak": "### II. Araştırma Soruları\n\nk1 doğrulandı, k2 kısmen doğrulandı.\n",
+  "yeni": "### II. Araştırma Soruları\n\nk1 doğrulandı, k2 doğrulandı.\n",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "koru": "kaynak kontrolü;araştırma notu;Yoğunlaştırma notu",
+  "not": "korunan bölüm: --koru parçası taşımayan başlık birebir denetlenmez"
+ },
+ {
+  "id": "KB-04",
+  "kaynak": "### Bölüm kaynakçası (2. Bölüm)\n\n#### Mevzuat\n\n- 2827 sayılı Kanun.\n\n#### Yargı kararları\n\n- Yargıtay 5. CD kararı.\n",
+  "yeni": "### Bölüm kaynakçası (2. Bölüm)\n\n#### Mevzuat\n\n- 2827 sayılı Kanun.\n\n#### Yargı kararları\n\n- Yargıtay 5. CD'nin kararı.\n",
+  "beklenen": "KESİN",
+  "not": "korunan bölüm: alt başlık üst bölümle korunur"
+ },
+ {
+  "id": "KB-05",
+  "kaynak": "Metin.\n\n## Kaynakça\n\n- Yılmaz 2020.\n",
+  "yeni": "Metin.\n\n## Kaynaklar\n\n- Yılmaz 2020.\n",
+  "beklenen": "KESİN",
+  "not": "korunan bölüm: başlığı değişti"
+ },
+ {
+  "id": "KB-06",
+  "kaynak": "### Orkestratöre devir notu\n\n#### Yeni kaynaklar ve erişim düzeyleri\n\nİki kaynak eklendi ve kısmen okundu.\n",
+  "yeni": "### Orkestratöre devir notu\n\n#### Yeni kaynaklar ve erişim düzeyleri\n\nİki kaynak eklendi ve okundu.\n",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "korunan bölüm: not başlığındaki 'kaynaklar' kaynakça sayılmaz"
+ },
+ {
+  "id": "DN-05",
+  "kaynak": "Kanun on haftayı öngörür.[^a-1] Hekim bunu bilmelidir. Tüzük de aynı süreyi tekrarlar.[^a-1]",
+  "yeni": "Kanun on haftayı öngörür. Hekim bunu bilmelidir.[^a-1] Tüzük de aynı süreyi tekrarlar.[^a-1]",
+  "beklenen": "KESİN",
+  "not": "dipnot: iki kez kullanılan işaretin ilki taşındı"
+ },
+ {
+  "id": "DN-06",
+  "kaynak": "Kanun on haftayı öngörür.[^a-1] Tüzük de aynı süreyi tekrarlar.[^a-1]",
+  "yeni": "Kanun on haftayı öngörür.[^a-1] Tüzük de aynı süreyi tekrarlar.",
+  "beklenen": "KESİN",
+  "not": "dipnot: iki kez kullanılan işaretin biri silindi"
+ },
+ {
+  "id": "FK-01",
+  "kaynak": "Kanun on haftayı öngörür. Süre dolunca fiil suçtur.",
+  "yeni": "Kanun on haftayı öngörür. Süre dolduğunda fiil suç olur.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "fark_icerir": [
+   "| No | Önce | Sonra |",
+   "| 2 → 2 | Süre dolunca fiil suçtur. | Süre dolduğunda fiil suç olur. |"
+  ],
+  "not": "--fark: değişen cümle tabloda"
+ },
+ {
+  "id": "FK-02",
+  "kaynak": "İlk cümle aynı. A | B ayrımı burada yapılır.",
+  "yeni": "İlk cümle aynı. A | B ayrımı burada yapılmaktadır.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "fark_icerir": [
+   "| 2 → 2 | A \\| B ayrımı burada yapılır. | A \\| B ayrımı burada yapılmaktadır. |"
+  ],
+  "not": "--fark: hücredeki dikey çizgi kaçırılır"
+ },
+ {
+  "id": "FK-03",
+  "kaynak": "Buna karşı Yargıtay 14. Ceza Dairesi m. 99/5 uyarınca bozmuştur.",
+  "yeni": "Buna karşılık Yargıtay 14. Ceza Dairesi, m. 99/5 uyarınca bozmuştur.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "fark_icerir": [
+   "| 1 → 1 | Buna karşı Yargıtay 14. Ceza Dairesi m. 99/5 uyarınca bozmuştur. | Buna karşılık Yargıtay 14. Ceza Dairesi, m. 99/5 uyarınca bozmuştur. |"
+  ],
+  "not": "cümle bölme: hukuk kısaltması (m.) ve sıra sayısı (14.) cümleyi bitirmez"
+ },
+ {
+  "id": "BL-01",
+  "kaynak": "Önsöz satırı.\n## Giriş\nBir iki üç dört.[^1]\n### Alt\nBeş altı yedi.\n[^1]: Kaynak tanımı burada çok uzun bir tanım.\n## Kaynakça\n- Yılmaz 2020.\n## Araştırma notu\nNot metni.\n## Sonuç\nSekiz dokuz.\n",
+  "koru": "araştırma notu",
+  "sinir": 8,
+  "plan_icerir": [
+   "Ana metin 21 sözcük, 1 dipnot işareti; 1 dipnot tanımı satır 6–6",
+   "| 1–1 | (başlıksız giriş) | 2 | 0 |  |",
+   "| 2–3 | ## Giriş | 5 | 1 |  |",
+   "| 4–6 | ### Alt | 4 | 0 |  |",
+   "| 7–8 | ## Kaynakça | 3 | 0 | evet |",
+   "| 9–10 | ## Araştırma notu | 4 | 0 | evet |",
+   "P1. satır 1–3: 7 sözcük, 1 dipnot",
+   "P2. satır 4–6: 4 sözcük, 0 dipnot",
+   "P3. satır 11–12: 3 sözcük, 0 dipnot",
+   "KORUNAN (dokunmayın): satır 7–8 ## Kaynakça; satır 9–10 ## Araştırma notu"
+  ],
+  "not": "bolumle.py: başlık sınırı, dipnot tanımı ana metin değil, korunan bölüm parçayı keser"
+ },
+ {
+  "id": "HS-SIRA",
+  "kaynak": "Muayeneden sonra çalışabilir.",
+  "yeni": "Muayeneden önce çalışabilir.",
+  "beklenen": "KONTROL",
+  "soru": ["SIRA"],
+  "not": "hedefli soru: adla kurulan sıra"
+ },
+ {
+  "id": "HS-ROL",
+  "kaynak": "Doktorun aradığı çalışan geldi.",
+  "yeni": "Doktoru arayan çalışan geldi.",
+  "beklenen": "KONTROL",
+  "soru": ["ROL"],
+  "not": "hedefli soru: cins adlarda rol değişimi (-dığı → -(y)an)"
+ },
+ {
+  "id": "HS-NITEL",
+  "kaynak": "Ölçüm 40 dakika sürdü ve yaklaşık 12 örnek alındı.",
+  "yeni": "Ölçüm yaklaşık olarak tam 40 dakika sürdü ve 12 örnek alındı.",
+  "beklenen": "KESİN",
+  "soru": ["NİTELEYİCİ"],
+  "not": "hedefli soru: niteleyici araya sözcük girerek başka sayıya kaymış"
+ },
+ {
+  "id": "HS-SINIR",
+  "kaynak": "En az bir hekim bulunur.",
+  "yeni": "Bir hekim bulunur.",
+  "beklenen": "KONTROL",
+  "soru": ["SINIR"],
+  "not": "hedefli soru: en az bir"
+ },
+ {
+  "id": "HS-YOK",
+  "kaynak": "En az bir hekim muayeneden sonra doktorun aradığı raporu imzalar. Rapor arşivde durur.",
+  "yeni": "En az bir hekim muayeneden sonra doktorun aradığı raporu imzalar. Rapor arşivde saklanır.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "soru": [],
+  "not": "hedefli soru yanlış alarmı: değişmeyen cümlede soru çıkmaz"
+ },
+ {
+  "id": "TDK-YN48",
+  "kaynak": "Dilekçe Mavikaya Hastanesi'ne gönderildi.",
+  "yeni": "Dilekçe Mavikaya Hastanesine gönderildi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "kurum adında kesme kalktı (YN-48): yazım, ad aynı"
+ },
+ {
+  "id": "TDK-YN49",
+  "kaynak": "Formun Türkçe'si hazır.",
+  "yeni": "Formun Türkçesi hazır.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "yapım ekinden önce kesme kalktı (YN-49)"
+ },
+ {
+  "id": "TDK-YN80",
+  "kaynak": "K.D.V. oranı değişmedi.",
+  "yeni": "KDV oranı değişmedi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "kısaltma noktası kalktı (YN-80)"
+ },
+ {
+  "id": "TDK-YZ04",
+  "kaynak": "Ece ‘Plan “taslak” olarak kalsın’ dedi.",
+  "yeni": "Ece “Plan ‘taslak’ olarak kalsın” dedi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "iç içe tırnağın türü düzeldi (YZ-04)"
+ },
+ {
+  "id": "TDK-YZ05",
+  "kaynak": "Katılım % 60 oldu.",
+  "yeni": "Katılım %60 oldu.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yüzde işaretinden sonraki boşluk kalktı (YZ-05)"
+ },
+ {
+  "id": "TDK-AD-KAYIP",
+  "kaynak": "Dosyayı Ali ve Aliye aldı.",
+  "yeni": "Dosyayı Aliye aldı.",
+  "beklenen": "KESİN",
+  "not": "kesmesiz eşleşme başka adı yutmaz"
+ },
+ {
+  "id": "TDK-KISALTMA",
+  "kaynak": "K.D.V. oranı değişmedi.",
+  "yeni": "ÖTV oranı değişmedi.",
+  "beklenen": "KESİN",
+  "not": "kısaltma gerçekten değişti"
+ },
+ {
+  "id": "TDK-YUZDE-DEGER",
+  "kaynak": "Katılım % 60 oldu.",
+  "yeni": "Katılım %70 oldu.",
+  "beklenen": "KESİN",
+  "not": "boşluklu yüzdede değer değişti"
+ },
+ {
+  "id": "TDK-YUZDE-SIL",
+  "kaynak": "Katılım % 60 oldu.",
+  "yeni": "Katılım 60 oldu.",
+  "beklenen": "KESİN",
+  "not": "boşluklu yüzde işareti silindi"
+ },
+ {
+  "id": "TDK-TIRNAK-ICERIK",
+  "kaynak": "Ece ‘Plan “taslak” olarak kalsın’ dedi.",
+  "yeni": "Ece “Plan ‘nihai’ olarak kalsın” dedi.",
+  "beklenen": "KESİN",
+  "not": "tırnak türüyle birlikte alıntı da değişti"
+ },
+ {
+  "id": "TDK-TIRNAK-SIL",
+  "kaynak": "Ece “Plan ‘taslak’ olarak kalsın” dedi.",
+  "yeni": "Ece “Plan taslak olarak kalsın” dedi.",
+  "beklenen": "KESİN",
+  "not": "iç tırnak silindi (YA-06)"
+ },
+ {
+  "id": "BC-HEM",
+  "kaynak": "Hem raporu hem formu imzalayın.",
+  "yeni": "Raporu ya da formu imzalayın.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "hem … hem → ya da"
+ },
+ {
+  "id": "BC-YA",
+  "kaynak": "Ya bugün ya yarın gelin.",
+  "yeni": "Bugün gelin.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "ya … ya düştü"
+ },
+ {
+  "id": "BC-HEM-YA",
+  "kaynak": "Hem raporu hem formu imzalayın.",
+  "yeni": "Ya raporu ya formu imzalayın.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "hem … hem → ya … ya"
+ },
+ {
+  "id": "BC-ISTER",
+  "kaynak": "İster raporu ister formu imzalayın.",
+  "yeni": "Raporu imzalayın.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "ister … ister düştü"
+ },
+ {
+  "id": "BC-AYNI",
+  "kaynak": "Hem raporu hem formu imzalayın.",
+  "yeni": "Hem raporu hem de formu imzalayın.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yapı değişmedi: uyarı yok"
+ },
+ {
+  "id": "BAG-01",
+  "kaynak": "Rapor https://ornek.org/rapor adresinde.",
+  "yeni": "Rapor https://ornek.org/rapor2 adresinde.",
+  "beklenen": "KESİN",
+  "not": "bağlantının sonu değişti"
+ },
+ {
+  "id": "BAG-02",
+  "kaynak": "Yöntem için bkz. doi:10.1016/j.jsr.2020.01.004.",
+  "yeni": "Yöntem için bkz. doi:10.1016/j.jsr.2021.01.004.",
+  "beklenen": "KESİN",
+  "not": "DOI değişti"
+ },
+ {
+  "id": "BAG-03",
+  "kaynak": "Bulgular önceki çalışmayla uyumludur (doi:10.1016/S0140-6736(20)30183-5). Bu bağlamda örneklem küçüktür.",
+  "yeni": "Bulgular önceki çalışmayla uyumludur (doi:10.1016/S0140-6736(20)30183-5). Örneklem küçüktür.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "ayraçlı DOI ve kapanış ayracı: yanlış alarm yok"
+ },
+ {
+  "id": "BAG-04",
+  "kaynak": "Ayrıntılar raporda.",
+  "yeni": "Ayrıntılar raporda: https://ornek.org/rapor",
+  "beklenen": "KESİN",
+  "not": "kaynakta olmayan bağlantı"
+ },
+ {
+  "id": "TERIM-01",
+  "kaynak": "Çalışanlar spirometri ile izlenmiştir.",
+  "yeni": "Çalışanlar solunum testiyle izlenmiştir.",
+  "terimler": "spirometri;solunum fonksiyon testi",
+  "beklenen": "KESİN",
+  "not": "korunan terim düştü"
+ },
+ {
+  "id": "TERIM-02",
+  "kaynak": "Sanığın eylemi bilinçli taksirle işlenmiştir.",
+  "yeni": "Sanığın eylemi olası kastla işlenmiştir.",
+  "terimler": "bilinçli taksir;olası kast",
+  "beklenen": "KESİN",
+  "not": "hukuki terim yer değiştirdi"
+ },
+ {
+  "id": "TERIM-03",
+  "kaynak": "İşyeri hekimi raporu imzaladı. Spirometri yıllık yapılır.",
+  "yeni": "Raporu işyeri hekimi imzaladı. Yıllık spirometri yapılır.",
+  "terimler": "işyeri hekimi;spirometri",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "yanlış alarm: terimler büyük/küçük harf ve yer değişse de duruyor"
+ },
+ {
+  "id": "GORUNMEZ-01",
+  "kaynak": "Rapor hazır.",
+  "yeni": "Rapor\u200b hazır.",
+  "beklenen": "KESİN",
+  "not": "kaynakta olmayan sıfır genişlikli boşluk"
+ },
+ {
+  "id": "GORUNMEZ-02",
+  "kaynak": "Bu bağlamda rapor\u200b hazırdır.",
+  "yeni": "Rapor\u200b hazırdır.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "görünmez karakter yeni metinde kaldı"
+ },
+ {
+  "id": "GORUNMEZ-03",
+  "kaynak": "Toplam 4\u200b12 kişi katıldı.",
+  "yeni": "Toplam 412 kişi katıldı.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: görünmez karakter sayıyı bölmüyor"
+ },
+ {
+  "id": "GORUNMEZ-04",
+  "kaynak": "Oran %12'dir【4†source】.",
+  "yeni": "Oran %12'dir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: sohbet işaretinin silinmesi sayı kaybı değil"
+ },
+ {
+  "id": "GORUNMEZ-05",
+  "kaynak": "Bu bağlamda oran %12'dir【4†source】.",
+  "yeni": "Oran %12'dir【4†source】.",
+  "beklenen": "KONTROL",
+  "en_cok": "KONTROL",
+  "not": "sohbet işareti yeni metinde kaldı"
+ },
+ {
+  "id": "GORUNMEZ-06",
+  "kaynak": "Ailece geldik 👨\u200d👩\u200d👧.",
+  "yeni": "Ailece geldik 👨\u200d👩\u200d👧.",
+  "beklenen": "TEMİZ",
+  "en_cok": "TEMİZ",
+  "not": "yanlış alarm: emoji dizisindeki birleştirici"
+ },
+ {
+  "id": "TF-num-1",
+  "kaynak": "Gürültüye maruz kalan çalışanlarda işitme kaybı sıklığı %23 olarak bulunmuştur.",
+  "yeni": "Gürültüye maruz kalan çalışanlarda işitme kaybı sıklığı %32 olarak bulunmuştur.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: numbers"
+ },
+ {
+  "id": "TF-num-2",
+  "kaynak": "Çalışmaya 412 işçi katılmış, bunların 57'si kadındır.",
+  "yeni": "Çalışmaya 421 işçi katılmış, bunların 57'si kadındır.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: numbers"
+ },
+ {
+  "id": "TF-num-3",
+  "kaynak": "Maruz kalanlarda risk 3,5 kat artmıştır.",
+  "yeni": "Maruz kalanlarda risk 5,3 kat artmıştır.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: numbers"
+ },
+ {
+  "id": "TF-num-4",
+  "kaynak": "Ortalama çalışma süresi 8 saattir.",
+  "yeni": "Ortalama çalışma süresi 12 saattir.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: numbers"
+ },
+ {
+  "id": "TF-neg-1",
+  "kaynak": "Kişisel koruyucu donanım tek başına yeterli değildir.",
+  "yeni": "Kişisel koruyucu donanım tek başına yeterlidir.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: negation"
+ },
+ {
+  "id": "TF-neg-2",
+  "kaynak": "Gruplar arasında anlamlı bir fark bulunmamıştır.",
+  "yeni": "Gruplar arasında anlamlı bir fark bulunmuştur.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: negation"
+ },
+ {
+  "id": "TF-neg-3",
+  "kaynak": "Hiçbir katılımcıda yan etki gözlenmedi.",
+  "yeni": "Bazı katılımcılarda yan etki gözlendi.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: negation"
+ },
+ {
+  "id": "TF-cert-1",
+  "kaynak": "Bu bulgular ergonomik müdahalelerin bel ağrısını azaltabileceğini düşündürmektedir.",
+  "yeni": "Bu bulgular ergonomik müdahalelerin bel ağrısını azalttığını kanıtlamaktadır.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: certainty"
+ },
+ {
+  "id": "TF-cert-2",
+  "kaynak": "Maruziyet muhtemelen hastalık riskini artırmaktadır.",
+  "yeni": "Maruziyet hastalık riskini artırmaktadır.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: certainty"
+ },
+ {
+  "id": "TF-cert-3",
+  "kaynak": "Sonuçlar bazı çalışanlarda uyku kalitesinin düştüğünü göstermektedir.",
+  "yeni": "Sonuçlar tüm çalışanlarda uyku kalitesinin düştüğünü göstermektedir.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: certainty"
+ },
+ {
+  "id": "TF-mod-1",
+  "kaynak": "İşverenler risk değerlendirmesini her yıl yenilemelidir.",
+  "yeni": "İşverenlerin risk değerlendirmesini her yıl yenilemesi önerilir.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: modality"
+ },
+ {
+  "id": "TF-mod-2",
+  "kaynak": "Çalışanlar KKD kullanmalıdır.",
+  "yeni": "Çalışanlar KKD kullanabilir.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: modality"
+ },
+ {
+  "id": "TF-cause-1",
+  "kaynak": "Vardiyalı çalışma uyku bozukluklarıyla ilişkili bulunmuştur.",
+  "yeni": "Vardiyalı çalışma uyku bozukluklarına neden olmaktadır.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: causality"
+ },
+ {
+  "id": "TF-cause-2",
+  "kaynak": "Uzun çalışma saatleri tükenmişlikle ilişkilidir.",
+  "yeni": "Uzun çalışma saatleri tükenmişliğe yol açar.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: causality"
+ },
+ {
+  "id": "TF-cite-1",
+  "kaynak": "İşitme kaybı gürültülü sektörlerde yaygındır (Yılmaz ve ark., 2019).",
+  "yeni": "İşitme kaybı gürültülü sektörlerde yaygındır.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: citations"
+ },
+ {
+  "id": "TF-cite-2",
+  "kaynak": "Benzer sonuçlar daha önce bildirilmiştir [12].",
+  "yeni": "Benzer sonuçlar daha önce bildirilmiştir [13].",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: citations"
+ },
+ {
+  "id": "TF-cite-3",
+  "kaynak": "Demir (2020) bu ilişkiyi ilk kez göstermiştir.",
+  "yeni": "Demir (2021) bu ilişkiyi ilk kez göstermiştir.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: citations"
+ },
+ {
+  "id": "TF-term-1",
+  "kaynak": "KOAH tanılı çalışanlar spirometri ile izlenmiştir.",
+  "yeni": "Kronik akciğer hastalığı olan çalışanlar solunum testiyle izlenmiştir.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: terms"
+ },
+ {
+  "id": "TF-term-2",
+  "kaynak": "Tanılar ICD-10 sistemine göre kodlanmıştır.",
+  "yeni": "Tanılar uluslararası sınıflamaya göre kodlanmıştır.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: terms"
+ },
+ {
+  "id": "TF-term-3",
+  "kaynak": "PM2.5 düzeyleri her vardiyada ölçülmüştür.",
+  "yeni": "İnce partikül düzeyleri her vardiyada ölçülmüştür.",
+  "beklenen": "KESİN",
+  "not": "text-forensics çifti: terms"
+ },
+ {
+  "id": "TF-tense-1",
+  "kaynak": "Katılımcıların çoğu gece vardiyasında çalışmaktadır.",
+  "yeni": "Katılımcıların çoğu gece vardiyasında çalışmıştır.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: tense"
+ },
+ {
+  "id": "TF-tense-2",
+  "kaynak": "Ölçümler fabrikada yapıldı.",
+  "yeni": "Ölçümler fabrikada yapılacaktır.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: tense"
+ },
+ {
+  "id": "TF-tense-3",
+  "kaynak": "Eğitim programı başlatılmıştır.",
+  "yeni": "Eğitim programı başlatılacaktır.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: tense"
+ },
+ {
+  "id": "TF-person-1",
+  "kaynak": "Gece vardiyasının etkileri bu çalışmada incelenmiştir.",
+  "yeni": "Biz bu çalışmada gece vardiyasının etkilerini inceledik.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: person"
+ },
+ {
+  "id": "TF-person-2",
+  "kaynak": "Veriler anket yöntemiyle toplanmıştır.",
+  "yeni": "Verileri anket yöntemiyle topladık.",
+  "beklenen": "KONTROL",
+  "not": "text-forensics çifti: person"
+ },
+ {
+  "id": "TF-keep-1",
+  "kaynak": "Gürültüye maruz kalan çalışanlarda işitme kaybı sıklığı %23 olarak bulunmuştur (Yılmaz ve ark., 2019).",
+  "yeni": "İşitme kaybı sıklığı, gürültüye maruz kalan çalışanlarda %23 bulunmuştur (Yılmaz ve ark., 2019).",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-2",
+  "kaynak": "Kişisel koruyucu donanım kullanımı, maruziyeti azaltabilir ancak tek başına yeterli değildir.",
+  "yeni": "Kişisel koruyucu donanım maruziyeti azaltabilir; ancak tek başına yeterli değildir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-3",
+  "kaynak": "Bu bağlamda, ergonomik risklerin belirlenmesi büyük önem taşımaktadır.",
+  "yeni": "Ergonomik risklerin belirlenmesi bu açıdan önemlidir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-4",
+  "kaynak": "Ayrıca, çalışanların eğitim düzeyi de değerlendirilmiştir.",
+  "yeni": "Çalışanların eğitim düzeyi de değerlendirilmiştir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-5",
+  "kaynak": "Sonuç olarak, düzenli sağlık gözetimi meslek hastalıklarının erken tanısına katkı sağlamaktadır.",
+  "yeni": "Düzenli sağlık gözetimi, meslek hastalıklarının erken tanısına katkıda bulunmaktadır.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-6",
+  "kaynak": "Çalışmaya 412 işçi katılmış, bunların 57'si kadındır.",
+  "yeni": "Çalışmaya katılan 412 işçinin 57'si kadındır.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-7",
+  "kaynak": "Gürültü düzeyi 85 dB(A) üzerinde ölçülmüştür.",
+  "yeni": "Ölçülen gürültü düzeyi 85 dB(A) üzerindedir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-8",
+  "kaynak": "Çalışanların %40'ı bel ağrısı bildirmiştir.",
+  "yeni": "Bel ağrısı bildiren çalışanların oranı %40'tır.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-9",
+  "kaynak": "Vardiyalı çalışma uyku bozukluklarıyla ilişkili bulunmuştur.",
+  "yeni": "Vardiyalı çalışmanın uyku bozukluklarıyla ilişkili olduğu bulunmuştur.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-10",
+  "kaynak": "Bu yöntem etkili bir şekilde uygulanmıştır.",
+  "yeni": "Bu yöntem etkili biçimde uygulanmıştır.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-11",
+  "kaynak": "Ölçümler gerçekleştirilmiş ve sonuçlar kaydedilmiştir.",
+  "yeni": "Ölçümler yapılmış ve sonuçlar kaydedilmiştir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-15",
+  "kaynak": "Bunun yanı sıra, katılımcıların yaklaşık yarısı sigara içmektedir.",
+  "yeni": "Katılımcıların yaklaşık yarısı sigara içmektedir.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TF-keep-16",
+  "kaynak": "Hastalık izni süresi, müdahale grubunda kontrol grubuna göre daha kısa bulunmuştur.",
+  "yeni": "Müdahale grubunda hastalık izni süresi kontrol grubuna göre daha kısaydı.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "text-forensics çifti: anlam korunuyor"
+ },
+ {
+  "id": "TARAMA-01",
+  "kaynak": "Hekim, TCK m. 99 uyarınca gebeliği yetkisiz sona erdirirse cezalandırılır. Kanun, on haftalık süreyi esas alır.[^1]\n\n[^1]: Bu bağlamda dipnot taranmaz.",
+  "tarama": [],
+  "not": "temiz hukuk paragrafı; dipnot taranmaz"
+ },
+ {
+  "id": "TARAMA-02",
+  "kaynak": "Günümüzde bu konu önemlidir. Bu bağlamda, hekimin rolü büyük önem taşımaktadır.",
+  "tarama": [
+   "ACL-01",
+   "KLS-01",
+   "KLS-03"
+  ],
+  "not": "açılış, bağlam ve önem kalıpları"
+ },
+ {
+  "id": "TARAMA-03",
+  "kaynak": "Ayrıca kadının rızası alınır. Ayrıca süre hesaplanır. Bu sorun sadece hukuki değil, aynı zamanda etiktir.",
+  "tarama": [
+   "YPI-07",
+   "YPI-05"
+  ],
+  "not": "ekleme geçişi yığılması ve düzeltici çerçeve"
+ },
+ {
+  "id": "TARAMA-04",
+  "kaynak": "Veriler toplanmaktadır. Analizler yapılmaktadır. Sonuçlar raporlanmaktadır.",
+  "tarama": [
+   "DLB-01"
+  ],
+  "not": "-mektedir dizisi türe bağlı"
+ },
+ {
+  "id": "TARAMA-05",
+  "kaynak": "Mahkeme bu hakkın \"etkili bir şekilde\" kullanılması gerektiğini belirtti. Ruh, kırk günün sonunda üflenir. Kalıcı adresler listede.",
+  "tarama": [],
+  "not": "yanlış alarm yok: alıntı, düz anlamlı \"günün sonunda\", \"adresler\""
+ },
+ {
+  "id": "TARAMA-06",
+  "kaynak": "## Kaynakça\n\nGünümüzde kaynakça taranmaz.\n\n## Sonraki\n\nRapor\u200b hazır.",
+  "tarama": [
+   "BIC-05"
+  ],
+  "not": "kaynakça atlanır; görünmez karakter bulunur"
+ },
+ {
+  "id": "SAYI-MILYON",
+  "kaynak": "Bütçe 75 Milyon TL olarak belirlendi.",
+  "yeni": "Bütçe 75 milyon TL olarak belirlendi.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "büyük harfli sayı sözü: değer aynı, KESİN olmamalı"
+ },
+ {
+  "id": "SAAT-NOKTA",
+  "kaynak": "Toplantı 14:30'da başlıyor.",
+  "yeni": "Toplantı 14.30'da başlıyor.",
+  "beklenen": "TEMİZ",
+  "en_cok": "KONTROL",
+  "not": "saatte iki nokta → nokta: değer aynı"
+ }
+]

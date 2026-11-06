@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: eposta-oneri-karar
+expected_outcome: |
+  İş yazışması registerı ve alıcıya saygılı hitap korunur. Erteleme bir öneri olarak kalır, son karar Selim Bey'de kalır. Denetim için ve kesin maliyet rakamları için 'henüz' kalır. 'yaklaşık %85', 'yaklaşık %12' ('ilk bütçeye göre'), denetim firmasının bildirdiği 'en erken 24 Şubat', '3 Mart' ve '17 Mart' aynen kalır; maliyet artışı beklenti olarak kalır. 'Umarım bu e-posta sizi iyi bulur', 'Umarım bu bilgiler yardımcı olur', 'gerçekleştirilememiştir', 'tamamlanmış durumdadır' ve 'mevcut durumu' kalkar.

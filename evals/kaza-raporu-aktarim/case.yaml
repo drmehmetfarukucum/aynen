@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: kaza-raporu-aktarim
+expected_outcome: |
+  Aktarılan bilgi aktarılan olarak kalır: Düşme, vardiya amirinin aktarımıyla ve duyulan geçmişle anlatılır. 'yaklaşık', 'sularında', 'henüz kesin değildir' temkinleri, 'zorunludur' yükümlülüğü ve 'önerilmektedir' önerisi aynı basamakta kalır. Mevzuat atfı ve süreler aynen korunur.

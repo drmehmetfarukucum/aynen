@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: duyuru-zorunlu-oneri
+expected_outcome: |
+  Kurumsal duyuru registerı korunur. Tarihler, saatler, 'her saat başı en az 10 dakika' ve 'en az 2 litre' aynen kalır. Açık alanda gölgede mola zorunlu kalır ve açık alanda çalışan tüm personeli kapsar; kapalı alanda su içmek öneri olarak kalır. Gebe çalışanlar ile kronik hastalığı olan çalışanlara ilişkin istisna iki ayrı grubu, işyeri hekiminin onayı koşulunu ve 12.00-16.00 aralığını korur. Belirti cümlesinde 'derhal' ve 'amirinize ve revire' kalır. 'Günümüzde', 'son derece kritik', 'Bu bağlamda', 'Şunu belirtmek gerekir ki', 'Bunun yanı sıra' ve emojiler kalkar.

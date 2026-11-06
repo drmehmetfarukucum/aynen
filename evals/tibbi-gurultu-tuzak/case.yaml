@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: tibbi-gurultu-tuzak
+expected_outcome: |
+  Akademik register ve hafif seviye korunur. Bütün sayılar ve istatistikler aynen kalır. 'belirgin biçimde', 'olabileceğini düşündürmektedir', 'anlamlı bir ilişki bulunmamıştır' ve 'Demir ve ark. (2022) ... da' korunur. Son cümle bir öneri olarak kalır, zorunluluğa ya da bulgulara dayanan bir çıkarıma dönüşmez. 'Günümüzde', 'Bu bağlamda, söz konusu', 'Sonuç olarak' kalkar.

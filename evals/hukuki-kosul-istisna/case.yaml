@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: hukuki-kosul-istisna
+expected_outcome: |
+  Resmi register ve hafif seviye korunur. Tırnak içindeki taslak cümle birebir kalır. Taslak ile yürürlükteki düzenleme, gerekli ile yeterli koşul, kişi başına dağılım, yükümlülüğün olumsuzlanması, gerçekleşmemiş geçmiş koşulu, beklenti ile karar ve aktarım ayrımları korunur. 'Günümüzde', 'Bu çerçevede', 'Sonuç olarak' kalkar.

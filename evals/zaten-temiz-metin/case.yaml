@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: zaten-temiz-metin
+expected_outcome: |
+  Metin zaten doğal ve iyi yazılmış. Doğru davranış, değişiklik yapmamak ya da en fazla bir iki küçük düzeltme yapmak ve bunu kullanıcıya söylemektir. Sayılar ve sınırlar ('en az bir kez', 'en az üç gün', 'en geç 30 Nisan'), 'henüz çözülmedi', 'söylendi', 'yazması yeterli', 'Kask zorunlu' ve 'gerisi size kalmış' aynen kalır. Kaynakta olmayan giriş, kapanış, geçiş sözü, başlık ya da biçim eklenmez.

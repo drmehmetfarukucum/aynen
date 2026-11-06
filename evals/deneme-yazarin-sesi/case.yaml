@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: deneme-yazarin-sesi
+expected_outcome: |
+  Deneme registerı ve yazarın sesi korunur: Retorik sorular soru olarak, son cümledeki ironi ironi olarak kalır; parçalı yazım ve kısa cümleler birleştirilmez. Yazarın kendi paragrafları neredeyse aynen kalır. Yalnızca dördüncü paragraf sadeleşir: 'Günümüzde', 'Bu bağlamda', 'son derece kritik' ve 'büyük önem taşımaktadır' kalkar; zaman yönetimiyle verimlilik arasındaki ilişki bir nedensellik iddiasına, 'Bu bağlamda' bir sebep bağına dönmez. Çıktı, sesin bilerek korunduğunu kullanıcıya söyler.
