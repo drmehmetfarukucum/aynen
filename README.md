@@ -9,7 +9,7 @@
 [![Testler: 202/202](https://img.shields.io/badge/testler-202%2F202-0e7a62)](tests/regresyon.py)
 [![Claude Skill](https://img.shields.io/badge/Claude_Skill-3d434d)](SKILL.md)
 
-Aynen, Türkçe metinlerdeki yapay zekâ izlerini temizleyen bir Claude skill'i, yani Claude'a bu işi nasıl yapacağını öğreten bir talimat ve araç paketi. Asıl işi, düzeltirken anlamın kaymasını önlemek. Çünkü yapay zekâyla "doğallaştırılan" bir metin akıcılaşırken sessizce başka bir şey söylemeye başlayabilir: "ilişkili olabilir" "artırır" olur, "önerilir" "zorunludur" olur, "anlamlı fark bulunmadı" "etkisi yok" olur, bir dipnot başka bir cümleye kayar. Aynen metni düzeltir, ardından sonucu kaynağıyla karşılaştıran bir denetimden geçirir. Adı da buradan geliyor: Yeni hâlini okuyunca "aynen, tam bunu demek istemiştim" diyebilesin diye.
+**Aynen**, Türkçe metinlerdeki yapay zekâ izlerini temizleyen bir Claude skill'i, yani Claude'a bu işi nasıl yapacağını öğreten bir talimat ve araç paketi. Asıl işi, düzeltirken anlamın kaymasını önlemek. Çünkü yapay zekâyla "doğallaştırılan" bir metin akıcılaşırken sessizce başka bir şey söylemeye başlayabilir: "ilişkili olabilir" "artırır" olur, "önerilir" "zorunludur" olur, "anlamlı fark bulunmadı" "etkisi yok" olur, bir dipnot başka bir cümleye kayar. Aynen metni düzeltir, ardından sonucu kaynağıyla karşılaştıran bir denetimden geçirir. Adı da buradan geliyor: Yeni hâlini okuyunca "aynen, tam bunu demek istemiştim" diyebilesin diye.
 
 ## Bir paragraf, iki yeniden yazım
 
@@ -56,7 +56,7 @@ Tıbbi metinlerde Aynen varsayılan olarak az dokunur: Boş kalıpları siler, a
 
 ## Skill ve denetim aracı
 
-Aynen iki parçadan oluşur. Denetim aracını tek başına da kullanabilirsin.
+Aynen'in iki parçası var. Denetim aracını tek başına da kullanabilirsin.
 
 | | Skill | Denetim aracı (`scripts/anlam_denetimi.py`, Python ile yazılmış küçük bir program) |
 |---|---|---|

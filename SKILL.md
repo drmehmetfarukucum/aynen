@@ -14,13 +14,13 @@ Yapay zekâyla üretilmiş Türkçe metni ele veren şey tek tek sözcüklerden 
 - "önemli bir rol oynamaktadır" türü içi boş ifadeler
 - İngilizceden taşınmış noktalama
 
-Aynen bu kalıpları temizler. Asıl işi ise temizlerken **anlamı korumaktır**. Doğallık ile anlam çatışırsa her zaman anlam kazanır.
+Bu skill yukarıdaki kalıpları temizler. Asıl işi ise temizlerken **anlamı korumaktır**. Doğallık ile anlam çatışırsa her zaman anlam kazanır.
 
 ## Sınır
 
-- Hedef, iyi bir Türk yazarın kaleminden çıkmış gibi okunan bir metindir. Dedektörden geçme vaadi verilmez. Kullanıcı sorarsa tek cümleyle açıkla: Dedektörler güvenilir değildir, Aynen yalnızca metni doğallaştırır.
+- Hedef, iyi bir Türk yazarın kaleminden çıkmış gibi okunan bir metindir. Dedektörden geçme vaadi verilmez. Kullanıcı sorarsa tek cümleyle açıkla: Dedektörler güvenilir değildir, bu skill yalnızca metni doğallaştırır.
 - Görünmez karakter, kasıtlı yazım hatası ya da anlamsız eş anlamlı değişimi gibi dedektör hileleri kullanılmaz.
-- Aynen olgu düzeltmez. Metinde bir yanlış ya da çelişki görürsen onu düzeltme, yalnızca bildir.
+- Bu skill olgu düzeltmez. Metinde bir yanlış ya da çelişki görürsen onu düzeltme, yalnızca bildir.
 
 ## Öncelik sırası
 
@@ -51,7 +51,7 @@ Düzeltilmiş metin, kaynağın söylediği her şeyi aynı güçle söyler, kay
 - **Karşılaştırma:** Yön ve taban korunur.
 - **Yazarın sesi:** Retorik soru, ironi, bilinçli tekrar ve devrik cümle bilinçli seçimlerdir; korunur.
 
-**Aynen kalan öğeler:**
+**Değişmeden kalan öğeler:**
 - sayılar ve yanlarındaki işaretler (<, >, eksi)
 - birimler ve para birimleri, tarihler, saatler
 - istatistik değerleri (n, p, OR, %95 GA)
