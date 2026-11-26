@@ -3,36 +3,34 @@
   <desc id="d">İnsan gibi yazar, söylediğini aynen korur. Sağda bir cümle: "Günümüzde, bu bağlamda" üstü çizilmiş; "ilişkili olabilir" altı çizili olarak korunmuş.</desc>
   <style>
     text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
-    .ad { font-size: 136px; font-weight: 700; letter-spacing: -4px; fill: #17191E; }
-    .alt { font-size: 34px; font-weight: 500; fill: #50545C; }
-    .slogan { font-size: 30px; font-weight: 400; fill: #17191E; }
-    .vurgu { font-weight: 600; fill: #0E7A62; }
-    .satir { font-size: 30px; fill: #17191E; }
-    .silik { fill: #8C877D; }
-    .kalan { font-weight: 600; }
-    .cizik { stroke: #6B675F; stroke-width: 2.5; stroke-linecap: round; }
-    .cizgi { stroke: #E3DFD6; stroke-width: 1; }
+    .ad { font-size: 136px; font-weight: 800; letter-spacing: -4.5px; fill: #F0F9F4; }
+    .alt { font-size: 34px; font-weight: 600; fill: #BDE2CB; }
+    .slogan { font-size: 28px; font-weight: 400; fill: #F0F9F4; }
+    .satir { font-family: "Iowan Old Style", Charter, Georgia, "Times New Roman", serif; font-size: 36px; fill: #E7F2EB; }
+    .silik { fill: #788C7F; }
+    .kalan { font-weight: 700; }
+    .cizik { stroke: #788C7F; stroke-width: 2.5; stroke-linecap: round; }
   </style>
-  <rect width="1280" height="360" rx="16" fill="#F6F4EF"/>
+  <clipPath id="kart"><rect width="1280" height="360" rx="16"/></clipPath>
+  <g clip-path="url(#kart)">
+    <rect width="1280" height="360" fill="#24744D"/>
+    <rect x="740" width="540" height="360" fill="#062315"/>
+  </g>
 
-  <text class="ad" x="76" y="158">Aynen</text>
-  <text class="alt" x="80" y="234">Türkçe Metin Doğallaştırıcı</text>
-  <text class="slogan" x="80" y="296">İnsan gibi yazar, söylediğini <tspan class="vurgu">aynen</tspan> korur.</text>
+  <text class="ad" x="74" y="158">Aynen</text>
+  <text class="alt" x="80" y="232">Türkçe Metin Doğallaştırıcı</text>
+  <text class="slogan" x="80" y="292">İnsan gibi yazar, söylediğini aynen korur.</text>
 
   <g>
-    <line class="cizgi" x1="800" y1="188" x2="1200" y2="188"/>
-    <line class="cizgi" x1="800" y1="250" x2="1200" y2="250"/>
-    <line class="cizgi" x1="800" y1="312" x2="1200" y2="312"/>
+    <text class="satir silik" x="792" y="116" textLength="208">Günümüzde,</text>
+    <line class="cizik" x1="789" y1="105" x2="1003" y2="105"/>
+    <text class="satir silik" x="1012" y="116" textLength="214">bu bağlamda,</text>
+    <line class="cizik" x1="1009" y1="105" x2="1229" y2="105"/>
 
-    <text class="satir silik" x="800" y="172" textLength="172">Günümüzde,</text>
-    <line class="cizik" x1="797" y1="162" x2="975" y2="162"/>
-    <text class="satir silik" x="986" y="172" textLength="182">bu bağlamda,</text>
-    <line class="cizik" x1="983" y1="162" x2="1171" y2="162"/>
+    <text class="satir" x="792" y="188">gece çalışması bel ağrısıyla</text>
 
-    <text class="satir" x="800" y="234">gece çalışması bel ağrısıyla</text>
-
-    <text class="satir kalan" x="800" y="296" textLength="182">ilişkili olabilir</text>
-    <text class="satir" x="983" y="296">.</text>
-    <rect x="800" y="304" width="182" height="3.5" rx="1.75" fill="#0E7A62"/>
+    <text class="satir kalan" x="792" y="260" textLength="248">ilişkili olabilir</text>
+    <text class="satir" x="1041" y="260">.</text>
+    <rect x="792" y="272" width="248" height="4" rx="2" fill="#70DDB1"/>
   </g>
 </svg>
